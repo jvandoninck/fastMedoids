@@ -7,6 +7,9 @@ Jasper Van doninck
 ##  Collaborators
 Chakata Hart
 
+##  Purpose
+Calculate medoid (= element within a set S which minizes the sum of dissimilarities to all other objects in S), of a matrix where rows represent observations and columns represent variables.
+
 ##  Currently implemented algorithms
 ### Naive medoids
 Based on distance matrices, requiring O(N<sup>2</sup>) distance calculations.
