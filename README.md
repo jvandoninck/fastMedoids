@@ -9,7 +9,7 @@ Chakata Hart
 
 ##  Currently implemented algorithms
 ### Naive medoids
-Based on distance matrix, requires O(N<sup>2</sup>) distance calculations.
+Based on distance matrices, requiring O(N<sup>2</sup>) distance calculations.
 
 ### trimed 
 Exact calculation of the medoid using the triangle inequality to cut down the search space (Newling and Fleuret, 2017).
