@@ -24,7 +24,7 @@ Root Mean Square Distance between two vectors: *sqrt(sum((x(i)-x(j))<sup>2</sup>
 N is adjusted for missing values in x(i) and/or x(j).
 
 ### Correlation
-Half of the complement of the Pearson correlation between two vectors: *(1-cor(x(i), x(j)))/2*
+Half of the complement of the Pearson correlation between two vectors: *(1-cor(x(i), x(j)))/2*  
 The resulting distance metric will be between 0 (perfect positive correlation) and 1 (perfect negative correlation). Missing observations are ignored.
 
 ##  References:
